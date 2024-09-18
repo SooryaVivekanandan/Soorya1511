@@ -1,0 +1,4 @@
+How to position images in CSS?
+How to Position an Image in CSS? - Scaler Topics
+The image position in CSS can be changed by using CSS properties like object-position property and float property.
+Object-position property is used to align the position with respect to the x,y coordinates of the image within its container.
